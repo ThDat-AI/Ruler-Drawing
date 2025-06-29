@@ -26,15 +26,9 @@ The **Ruler Drawing Problem** is a classic example used to illustrate how **recu
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![Ruler Drawing Demo](https://your-image-link-if-any.com/demo.png)
-
----
-
 ## 🔗 Live Demo
 
-> 👉 Try it now on [Streamlit Cloud](https://your-deployment-link.streamlit.app)  
+> 👉 Try it now on [Streamlit Cloud](ruler-drawing.streamlit.app/)  
 > *(You can deploy it yourself or use the code below to run locally)*
 
 ---
@@ -45,8 +39,10 @@ Make sure you have Python and `streamlit` installed:
 
 ```bash
 pip install streamlit matplotlib
+```
 Then, clone this repo and run the app:
-git clone https://github.com/your-username/ruler-drawing.git
+```bash
+git clone https://github.com/ThDat-AI/Ruler-Drawing.git
 cd ruler-drawing
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
