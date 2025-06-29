@@ -29,7 +29,6 @@ The **Ruler Drawing Problem** is a classic example used to illustrate how **recu
 ## 🔗 Live Demo
 
 > 👉 Try it now on [Streamlit Cloud](https://ruler-drawing.streamlit.app/)  
-> *(You can deploy it yourself or use the code below to run locally)*
 
 ---
 
